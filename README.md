@@ -16,7 +16,7 @@ The built web app can also be found on the shiny server here at this [link](http
 
 ### Plot 1:
 Displays the fulll time score in the two games that the two teams met each other. The graph used is a bar chart and shows a side by side comparison of match 1 full time score and match 2 full time score. Automatically updates upon new selections 
-![Plot1]("H:\download.png")
+<img src="H:/download.png" alt="Alt text" title="Optional title">
 
 ### Plot 2: 
 Displays the full week goal scored count for the two teams. Red and blue are used to depict the colors of the two teams. With the line graph it's easier to visualize the higher and lower peaks in weeks amongst the two teams and can be telling as to which team scored more per game throughout the weeks.
